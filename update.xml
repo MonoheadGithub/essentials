@@ -1,7 +1,7 @@
 <!--This is for Monolith Launcher.-->
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>06.23.2020.0002</version>
+    <version>06.24.2020.0003</version>
     <url>https://dl.dropboxusercontent.com/s/rfx39u5g2b2udgi/Monohead.zip?dl=1</url>     
     <changelog>google.com</changelog>
     <mandatory>true</mandatory>
